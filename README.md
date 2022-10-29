@@ -1,11 +1,13 @@
+![rfm_tanıtım](https://user-images.githubusercontent.com/104103280/198851495-aa1a41fc-1719-4677-932c-4295eb649c3a.png)
 
+# RFM ile Müşteri Segmentasyonu 
 
-# RFM ile Müşteri Segmentasyonu (Customer Segmentation with RFM)
-
-## İş Problemi (Business Problem)
+## İş Problemi 
 
 - FLO müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama stratejileri belirlemek istiyor.
 - Buna yönelik olarak müşterilerin davranışları tanımlanacak ve bu davranış öbeklenmelerine göre gruplar oluşturulacaktır.
+
+![rfm_görsel](https://user-images.githubusercontent.com/104103280/198851494-007780f5-e301-4124-9cad-dc25e7eecbfb.png)
 
 ## Veri Seti Hikayesi
 - Veri seti son alışverişlerini 2020 - 2021 yıllarında OmniChannel(hem online hem offline alışveriş yapan) olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edilen bilgilerden oluşmaktadır.
